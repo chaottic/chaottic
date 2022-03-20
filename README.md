@@ -1,4 +1,9 @@
-### Hi there 👋
+### 𝐻𝑒𝓁𝓁𝑜 🪦 /ᐠ｡ꞈ｡ᐟ\
+
+I like all things spooky and really into teeth as jewelry.
+
+Sometimes I draw irl, but usally doing pixel art.
+
 <!--
 **chaottic/chaottic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
