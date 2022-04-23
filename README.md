@@ -1,8 +1,8 @@
 ### 𝐻𝑒𝓁𝓁𝑜 🪦 /ᐠ｡ꞈ｡ᐟ\
 
-I like all things spooky and really into teeth as jewelry.
+I like all things creepy and crawly. Really into teeth as jewelry. 
 
-Sometimes I draw irl, but usally doing pixel art.
+Sometimes I draw in real life, otherwise I'm creating pixel art.
 
 <!--
 **chaottic/chaottic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
