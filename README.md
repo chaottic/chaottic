@@ -1,8 +1,6 @@
-### 𝐻𝑒𝓁𝓁𝑜 🪦 /ᐠ｡ꞈ｡ᐟ\
+### 𝐇𝐞𝐥𝐥𝐨 🪦 /ᐠ｡ꞈ｡ᐟ\
 
-I like all things creepy and crawly. Really into teeth as jewelry. 
-
-Sometimes I draw in real life, otherwise I'm creating pixel art.
+I like all things creepy and crawly.
 
 <!--
 **chaottic/chaottic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,3 +29,5 @@ Here are some ideas to get you started:
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
 </p>
+
+🦦🦦🦦🦦🦦🦦🦦
