@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 #
 
 <header>
-<p align="center">⭐</p>
+<p align="center">✮✦⭐✦✮</p>
 </header>
 
 <p align="center">Hello! I go by the online alias "chaottic" I enjoy haunted themes.</p>
 <h3>GitHub Stats</h3>
 <div>&nbsp;<div>
 <div>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=chaottic&show_icons=true&include_all_commits=true&count_private=true&theme=darcula"/></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaottic&show_icons=true&layout=compact&theme=darcula"/></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=chaottic&show_icons=true&include_all_commits=true&count_private=true&theme=ocean_dark"/></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaottic&show_icons=true&layout=compact&theme=ocean_dark"/></a>
 </div>
 
 <h3>Skills</h3>
@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 </table>
 
 <footer>
-<p align="center">⭐</p>
+<p align="center">✮✦⭐✦✮</p>
 </footer>
