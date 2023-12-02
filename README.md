@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center"><img src="https://chaottic-commissions.carrd.co/assets/images/image02.svg?v=ebce2add" width="500" height="500"/></p>
 -->
 
 #
 <header>
-<p align="center"><img src="https://chaottic-commissions.carrd.co/assets/images/image02.svg?v=ebce2add" width="500" height="500"/></p>
 </header>
 <footer>
 <p align="center"><img src="https://chaottic-commissions.carrd.co/assets/images/image01.svg?v=ebce2add" width="1750" height="175"/></p>
